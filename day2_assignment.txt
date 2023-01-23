@@ -1,0 +1,15 @@
+1 ==> computer is programmable device , it can store the data, it can manipulate the data.
+
+2 ==> Ram stands for Random Access Memory, it store the data for short term.
+
+3 ==> hard disk drives (HDDs), solid state drives (SSDs)
+
+4 ==> keyboard
+
+5 ==> Device whicch recieve the data like text video. ex. monitor is output devicce.
+
+6 ==> Mouse
+
+7 ==> Machine language
+
+8 ==> Equipment that provides , data to the computer. ex mouse
