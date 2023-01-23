@@ -1,0 +1,21 @@
+1 ==>  Git is version control system, it have capabilities that allow developers to work together, it allows to maintain the files,maintain the version, track the record of 
+		changes. also it helps for continuous development of software by reducing the risk of system failure.
+		
+2 ==> Version control system means, keeping the track of development pver the time.
+
+3 ==> Git hub is platform , allows you to main the code.
+
+4 ==> Git hub , Gitlab. bitbucket etc.
+
+5 ==> Majorly two types of version control system are there
+		a)Centralied version control system ==>  That have disadwantages of not having local repository, in case of remote repository failure , project work may impact.
+		b)Distributed version control system ==> Allows to have local repository in developers local system, in case of server system issue project work  effect,
+		since each individuals have there copy in their local.
+6 ==> 		a) Allows to  developed the software together in team efficiently.
+			b) Easy to maintain.
+			c) Development of software will continue in case of system failure at any end.
+			
+7 ==> A platform that keeps track of code changes.
+
+8 ==> by using git init command.
+	
