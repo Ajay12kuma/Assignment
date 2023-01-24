@@ -1,0 +1,16 @@
+1 ==> we can check the git version and confirm wheather git is available or not , another way is if git bash, git gui is available in right click that indicates git installed properly.
+
+2 ==> by login into git platform and manual click on new repository , also need to give suitable repository name, finally need to click on create repository.
+
+3 ==> using git config.name and git config.email commands
+
+4 ==> using git add <file_nme> or git add . (in case of eilling to add all file together)
+
+5 ==> using git rm <file_name> commands
+
+6 ==> using command git commit -m "with suitable msg here"
+
+7 ==> git push command is used to send local repo chaanges to remote repo.
+
+8 ==> clone ---> when we are copying repository in local system then we are using clone
+	  pull ---> in case to fetch frequently recent changes in remote repo we are using git pull commands.
